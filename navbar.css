@@ -1,0 +1,18 @@
+.navbar {
+    overflow: hidden;
+    background-color: #000;
+    text-align: center;
+    padding: 20px;
+  }
+
+.IC-logo-nav {
+    background: none;
+    width: 50px;
+  }
+
+.home-button {
+    border: none;
+    outline: none;
+    padding: 0;
+    background: none;
+  }
